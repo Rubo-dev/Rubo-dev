@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rubo-dev
 - 👀 I’m interested in coding, learning new stuff, connecting with people and have fun.
-- 🌱 I’m currently learning Angular and React JS.
-- 💞️ I’m looking to collaborate on React applications.
+- 🌱 I’m currently working with Angular and React JS.
+- 💞️ I’m looking to collaborate on React and Angular applications.
 - 📫 You can reach me with my working email: rubenmobile2@gmail.com
 
 <!---
